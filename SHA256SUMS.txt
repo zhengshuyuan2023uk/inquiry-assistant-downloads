@@ -1,1 +1,2 @@
-57e2c26dcd5b7d478bb861c582199a5d0fcc8957545abc577a9feba975e2f352  inquiry-assistant-0.7.0a1-macos-arm64-r2.zip
+31604206e65628f0d2fd77c92d257fc4af849e49c4d164e0c8c9a3b1baad96b1  inquiry-assistant-0.7.0a1-macos-arm64-r3.zip
+0e1f250ede6454c7510a4ad3676cf419af0806816804ba81c44ebe21ee9e0601  MAC_ONSITE.md

@@ -6,9 +6,9 @@
 
 ## 下载安装套件
 
-**[打开安装套件下载页](https://github.com/zhengshuyuan2023uk/inquiry-assistant-downloads/releases)**
+**[下载当前 r3 安装套件](https://github.com/zhengshuyuan2023uk/inquiry-assistant-downloads/releases/tag/macos-arm64-0.7.0a1-r3)** · [历史版本](https://github.com/zhengshuyuan2023uk/inquiry-assistant-downloads/releases)
 
-在版本页面的 **Assets（资源）** 中选择 `inquiry-assistant-…-macos-arm64-….zip`，约 185 MB。不要选择 GitHub 自动生成的 `Source code (zip)`：它只有此下载页的资料，不是安装套件。
+在版本页面的 **Assets（资源）** 中选择 `inquiry-assistant-0.7.0a1-macos-arm64-r3.zip`，约 185 MB。不要选择 GitHub 自动生成的 `Source code (zip)`：它只有此下载页的资料，不是安装套件。
 
 下载后解压，按编号操作：
 
@@ -20,6 +20,8 @@
 
 业务员日常双击桌面的 **打开询盘助手**。首次安装由实施人员协助。
 
+正式安装创建空白客户工作区，客户自行连接账号、选择客户并补充企业资料。可选的虚构演示在源码仓库按说明运行，与正式工作区共用一套程序、分别保存数据；此安装包不导入演示客户。
+
 [阅读完整现场安装手册](MAC_ONSITE.md) · [组件来源](MAC_COMPONENTS.md) · [校验值](SHA256SUMS.txt)
 
 ## 下载与数据
@@ -28,8 +30,10 @@
 
 ## 当前交付范围
 
-支持客户选择、手动更新聊天、AI 回复、个性化调整、润色、企业知识与回复策略。回复由业务员检查后手动发送。
+支持客户选择、手动更新聊天、AI 回复、个性化调整和润色。r3 将企业资料集中为新增、编辑及有效期表单；回复设置统一提供“怎么说”“需要问什么”“哪些情况先确认”，保留未保存提醒、保存失败保留与冲突保护。回复由业务员检查后手动发送。
 
 本版为企业试用部署包，含本地程序源文件及必要第三方组件，不包含任何开发者账号、客户聊天或登录。未提供 Windows 原生支持、多人权限、自动发送或自动更新。Mac 系统可能要求确认运行下载的软件；套件整体尚未完成 Apple 开发者签名、公证。
+
+已有安装请由实施人员先备份并安排升级；重新运行安装入口会复用已有安装，不会自动升级旧程序。
 
 各版本保留对应的校验值和说明。产品自有代码的 [MIT 许可](https://github.com/zhengshuyuan2023uk/inquiry-assistant/blob/main/LICENSE)与[第三方范围说明](https://github.com/zhengshuyuan2023uk/inquiry-assistant/blob/main/THIRD_PARTY_NOTICES.md)见源码仓库；各第三方组件继续保留随包许可，整个安装包不统一标为纯 MIT。
