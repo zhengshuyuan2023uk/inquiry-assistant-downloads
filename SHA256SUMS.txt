@@ -1,0 +1,1 @@
+57e2c26dcd5b7d478bb861c582199a5d0fcc8957545abc577a9feba975e2f352  inquiry-assistant-0.7.0a1-macos-arm64-r2.zip
