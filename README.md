@@ -2,6 +2,8 @@
 
 公开提供试用安装套件。适用于 Apple 芯片 Mac（含 M4），要求 macOS 14 或以上；首次安装由实施人员协助。
 
+**查看或二次开发源码：** [询盘助手开源项目](https://github.com/zhengshuyuan2023uk/inquiry-assistant)。源码、测试、合成演示和构建说明在独立仓库，自有代码采用 MIT；业务员安装继续使用本页的成品套件。
+
 ## 下载安装套件
 
 **[打开安装套件下载页](https://github.com/zhengshuyuan2023uk/inquiry-assistant-downloads/releases)**
@@ -30,4 +32,4 @@
 
 本版为企业试用部署包，含本地程序源文件及必要第三方组件，不包含任何开发者账号、客户聊天或登录。未提供 Windows 原生支持、多人权限、自动发送或自动更新。Mac 系统可能要求确认运行下载的软件；套件整体尚未完成 Apple 开发者签名、公证。
 
-各版本保留对应的校验值和说明。第三方组件许可随安装包提供；本仓库的可访问性不代表产品采用开放源码许可证。
+各版本保留对应的校验值和说明。产品自有代码的 [MIT 许可](https://github.com/zhengshuyuan2023uk/inquiry-assistant/blob/main/LICENSE)与[第三方范围说明](https://github.com/zhengshuyuan2023uk/inquiry-assistant/blob/main/THIRD_PARTY_NOTICES.md)见源码仓库；各第三方组件继续保留随包许可，整个安装包不统一标为纯 MIT。
